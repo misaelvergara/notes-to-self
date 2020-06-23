@@ -1,6 +1,6 @@
 What is Node.JS?
 ---
-Node is a **runtime environment** for running JS. It is mainly used to build back-end services, also called APIs (application programming interface). Any common application needs to talk to a server or to the cloud to store data, for example. Node excels at back-end services, being the fastest program available out there.
+Node is a **runtime environment** for running JS. It is mainly used to build back-end services, also called APIs (application programming interface). Most modern applications are either connected to a server or to the cloud, to store data. Node excels at back-end services, being the fastest program available out there.
 
 Node is essentially Google Chrome's V8 JS engine embedded in a C++ program. It also provides additional modules that give us capabilities not available inside browsers.
 
